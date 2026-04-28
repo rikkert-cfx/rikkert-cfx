@@ -4,7 +4,7 @@ I'm Sam also know as NietMeerLeuk, a beginning Software Developer from The nethe
 
 - ✨ Student @ [Koning Willem I](https://www.kw1c.nl/)
 - 📜 Portfolio: [nietmeerleuk.me](https://nietmeerleuk.me)
-- 📫 Discord: [nietmeerleuk](https://discordapp.com/users/971240646239191080)
+- 📫 Discord: [lucky.cfx](https://discordapp.com/users/971240646239191080)
 
 - 🌱 Working on **Dutch FiveM Server**
 
