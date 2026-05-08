@@ -6,7 +6,7 @@ I'm Sam also know as NietMeerLeuk, a beginning Software Developer from The nethe
 - 📜 Portfolio: [nietmeerleuk.me](https://nietmeerleuk.me)
 - 📫 Discord: [lucky.cfx](https://discordapp.com/users/971240646239191080)
 
-- 🌱 Working on **Dutch FiveM Server**
+- 🌱 Working on **a mobile app.**
 
 <img src="https://github-readme-stats.vercel.app/api?username=nietmeerleuk-nl&theme=dark&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nietmeerleuk-nl&theme=dark&show_icons=true" />
