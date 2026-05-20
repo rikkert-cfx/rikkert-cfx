@@ -8,6 +8,8 @@ I'm Sam also know as NietMeerLeuk, a beginning Software Developer from The nethe
 
 - 🌱 Working on **a mobile app.**
 
+###
+
 <a href="https://github.com/nietmeerleuk-nl">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nietmeerleuk-nl&include_all_commits=true&show_icons=true&theme=dark&count_private=true" alt="GatitoUwU's Github Stats" />
   
