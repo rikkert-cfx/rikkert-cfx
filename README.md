@@ -1,6 +1,6 @@
 ### Hey👋
 
-I'm Sam also know as NietMeerLeuk, a beginning Software Developer from The netherlands.
+I'm Sam also know as Rikkert, a beginning Software Developer from The netherlands.
 
 - ✨ Student @ [Koning Willem I](https://www.kw1c.nl/)
 - 📜 Portfolio: [nietmeerleuk.me](https://nietmeerleuk.me)
