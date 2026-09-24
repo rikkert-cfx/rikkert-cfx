@@ -1,12 +1,6 @@
 ### Hey👋
 
-I'm Sam also know as Rikkert, a beginning Software Developer from The netherlands.
-
-- ✨ Student @ [Koning Willem I](https://www.kw1c.nl/)
-- 📜 Portfolio: [nietmeerleuk.me](https://nietmeerleuk.me)
-- 📫 Discord: [rikkert.cfx](https://discordapp.com/users/971240646239191080)
-
-- 🌱 Working on a **...**
+I'm Rik also know as Rikkert from The netherlands.
 
 ###
 
